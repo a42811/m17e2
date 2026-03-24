@@ -6,4 +6,5 @@ Após escrever isto no terminal onde está instalado o Flask, é possível corre
 
 <br>
 PARA CONSEGUIR DAR LOGIN E CRIAR A BASE DE DADOS: py init_db.py
+<br>
 PARA INICIAR: py app.py
